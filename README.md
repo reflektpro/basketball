@@ -15,7 +15,7 @@ Sound files: bc song.ogg, kick.ogg, finish_him.ogg, blue.ogg, red.ogg
 Image files: new bc.png, blue.png, red.png, platform.png, basketball ball.png, walls.png
 ## 🚀 Installation
 ### Clone this repository:
-git clone https://github.com/reflektpro/basketball-game.git
+git clone https://github.com/reflektpro/basketball.git
 cd basketball-game
 ### Install Pygame if you haven't already:
 pip install pygame
